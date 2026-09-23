@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "test/voting-rewards-component-coverage-1306"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "test/voting-rewards-component-coverage-1306": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "test/voting-rewards-component-coverage-1306"
+  ]
+}
